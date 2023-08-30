@@ -7,7 +7,7 @@
   "name": "Jen Test scRNA Pipeline",
   "desc": "A Nextflow pipeline for single-cell RNA-Seq dataset",
   "executor": "NEXTFLOW",
-  "documentationUrl": "https://github.com/break-through-cancer/btc-scrna-pipeline",
+  "documentationUrl": "https://github.com/jy-breakthroughcancer/test-pipeline-jiang",
   "code": {
     "repository": "GITHUBPUBLIC",
     "script": "main.nf",
