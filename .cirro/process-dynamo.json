@@ -4,8 +4,8 @@
   "parentProcessIds": [
     "single-cell-10X"
   ],
-  "name": "Jen Test scRNA Pipeline",
-  "desc": "A Nextflow pipeline for single-cell RNA-Seq dataset",
+  "name": "Jenn Test scRNA Pipeline",
+  "desc": "TEST A Nextflow pipeline for single-cell RNA-Seq dataset",
   "executor": "NEXTFLOW",
   "documentationUrl": "https://github.com/jy-breakthroughcancer/test-pipeline-jiang",
   "code": {
